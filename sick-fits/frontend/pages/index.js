@@ -2,9 +2,9 @@ import Link from 'next/link';
 
 const Home = props => (
     <div>
-        <p>Home</p>
+        <p>Home from index</p>
         <Link href="/sell">
-            <a>Sell!</a>
+            <a>to sell from index</a>
         </Link>
         
     </div>

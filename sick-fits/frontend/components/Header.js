@@ -15,6 +15,7 @@ const Logo = styled.h1`
         text-transform: uppercase;
         text-decoration: none;
     }
+    @
 `;
 
 const Header = () => (

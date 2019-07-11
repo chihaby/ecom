@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -105,10 +105,10 @@ module.exports = __webpack_require__(/*! next/error */ "next/error")
 
 /***/ }),
 
-/***/ 1:
-/*!**********************************************************************************************************!*\
-  !*** multi C:/Users/1115338/Desktop/proj/ecom/sick-fits/frontend/node_modules/next/dist/pages/_error.js ***!
-  \**********************************************************************************************************/
+/***/ 2:
+/*!******************************************************!*\
+  !*** multi ./node_modules/next/dist/pages/_error.js ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
